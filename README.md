@@ -1,3 +1,3 @@
 # frictionless-genesis
 
-test webhook 1
+test webhook
