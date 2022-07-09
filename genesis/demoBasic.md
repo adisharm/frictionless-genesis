@@ -1,4 +1,4 @@
-# How is Creative Cloud pricing changing?
+# How is Creative Cloud pricing changing? 1
 
 _For the first time since the introduction of Creative Cloud in 2012, Adobe will introduce a price increase on March 5, 2018 in North America._
 
